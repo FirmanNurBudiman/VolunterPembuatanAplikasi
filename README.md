@@ -160,6 +160,7 @@ Berikut daftar Volunter yang diterima:
 * Fina Enno Rizki Oktavia Putri, [LinkedIn](https://www.linkedin.com/in/fina-enno-rizki-oktavia-putri-99a081164).
 * Firma Mukarromah, [GitHub](https://github.com/FirmaMukarromah).
 * Firmansyah Adi Nugroho, [GitHub](https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi).
+* Firman Nur Budiman, [GitHub](https://github.com/FirmanNurBudiman/VolunterPembuatanAplikasi).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Fitri Hanung Wibowo, [LinkedIn](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
